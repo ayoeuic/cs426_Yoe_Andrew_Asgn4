@@ -1,25 +1,13 @@
 # cs426_Yoe_Andrew_Asgn4
-CS426 assignment 2
-Team members: Yebeen Seo, Thomas Webber, Andrew Yoe
+CS 426 Assignment 4
+Name: Andrew Yoe
+NetID: ayoe
+Email: ayoe@uic.edu
+UIN: 668991039
 
-Formal Elements:
-    Players: multiplayer vs. game
-    Objective: Obtain all seven PC components
-    Procedures: Move, jump, shoot, collect a component
-    Rules: Stay in-bounds of the map, don't lose all your health
-    Resources: health, components, unlimited bullets
-    Conflict: Monsters who spawn in caves trying to defeat the player
-    Boundaries: Walls, floor
-    Outcome: All players win when all seven components are obtained (there is no game over/lose condition)
+Physics construct 1: Walls around the map that prevent the player and enemies from falling off the map
+Physics construct 2: The player now collides with all objects, such as rocks and tree logs, in the map insstead of phasing through them. This means the player now has to be aware of these objects to avoid and defeat the enemies.
 
-Multiplayer aspect: up to three players can connect to the server and play the game cooperatively
+Billboard: There is now a message saying to collect all seven components to win the game. This lets the player know how to beat the game rather than be confused and not get anything accomplished.
 
-Unusual procedure/rule: Monsters are trying to stop players from obtaining computer components (which is unusual)
-
-How we followed the game theme (Computer Architecture and Thieves): The PC components are related to computer architecture, and the players are the thieves trying to steal them from the monsters
-
-Serious objective: Learn the components of a personal computer (PC) and which order to build one
-
-Serious question: In which order should a PC be built?
-
-Serious answer: motherboard -> cpu -> ram -> gpu -> ssd -> hdd -> power supply (psu)
+Lights: All seven components now light up so they are easier to see. This also makes it more obvious that they are the components that need to be collected.
