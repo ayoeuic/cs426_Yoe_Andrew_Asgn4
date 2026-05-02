@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c5d2e6de46c95041b3b2b42094f4761
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 7845
+  packageName: Ruined Tower
+  packageVersion: 1.1
+  assetPath: Assets/RuinedTower/Materials/RuinedTowerMat.mat
+  uploadId: 12442
